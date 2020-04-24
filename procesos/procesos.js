@@ -139,3 +139,4 @@ getSalario(ides)
     }, (err) => { console.log(err); })
     
     */
+//Eduardo Santiago Quisupangui Lema
